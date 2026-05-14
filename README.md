@@ -10,7 +10,8 @@
 
 **Languages:** Python · Java · SQL  
 **AI/ML:** Scikit-learn · Pandas · NumPy  
-**Mobile:** Android Studio  
+**Mobile:** Android Studio 
+**DevOps:** Git, GitHub, Docker, DockerHub, Kubernetes
 **Database:** MySQL  
 **Tools:** Git · GitHub
 
