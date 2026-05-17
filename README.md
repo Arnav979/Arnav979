@@ -1,6 +1,6 @@
 # Hi, I'm Arnav Deshmukh 👋
 
-🎓 2nd Year B.Tech CSE Student at RV University, Bangalore  
+🎓  B.Tech CSE Student at RV University, Bangalore  
 🤖 Passionate about AI/ML, Android Development & problem solving  
 📍 Bangalore, India
 
